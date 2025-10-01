@@ -1,4 +1,4 @@
-# A3VMD — Benito J. Almanza  
+# A3VMD — Benito J. Almanza 3 
 **Visual Designer · 3D Artist · AI Explorer**
 
 Welcome to my GitHub portfolio. I'm a multidisciplinary creative developing immersive AI-driven visuals that fuse fashion, horror, architecture, and cinematic motion.
